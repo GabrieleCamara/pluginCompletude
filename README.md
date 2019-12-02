@@ -38,6 +38,9 @@ Os infograficos a seguir apresentam quais são as ações do usuário na utiliza
 ![Info_Usuario](https://user-images.githubusercontent.com/36965321/69980284-d20a0000-1527-11ea-8512-251b3ac0bb20.png)
 ![Info_Plugin](https://user-images.githubusercontent.com/36965321/69980312-df26ef00-1527-11ea-89a6-c942bd527c97.png)
 
+### Projeto Cartográfico do dado de saída
+![proj_cart](https://user-images.githubusercontent.com/36965321/69981767-e0a5e680-152a-11ea-82ee-bc9b2adc9c56.PNG)
+
 ### Exemplos dos resultados obtidos com o plugin
 * Camada de entrada = Malha viária de Curitiba
 1. Resolução da grade = 1000 metros
