@@ -1,6 +1,6 @@
 # Plugin completude de Malhas Viárias
 
-Esse plugin é o resultado final apresentado na disciplina de Projeto de Soluções de Geoinformação do Programa de Pós Graduação em Ciências Geodésicas. O problema proposto foi desenvolver um sistema para um determinado grupo utilizando o método User centred design (UCD) que incorpora a perspectiva do usuário no desenvolvimento do sistema, de modo que haja uma boa usabilidade.
+Esse plugin é o resultado final apresentado na disciplina de Projeto de Soluções de Geoinformação do Programa de Pós Graduação em Ciências Geodésicas, lecionado pela professora Luciene Stamato Delazari. O problema proposto foi desenvolver um sistema para um determinado grupo utilizando o método User centred design (UCD) que incorpora a perspectiva do usuário no desenvolvimento do sistema, de modo que haja uma boa usabilidade.
 
 ## Descrição do Sistema solicitado
 Plugin QGIS para identificação da completude de malhas viárias por meio da comparação de dados de referência fornecidos pelo usuário com dados do Open Street Map (OSM).
