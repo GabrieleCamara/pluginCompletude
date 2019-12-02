@@ -23,7 +23,7 @@ A solução proposta foi um plugin no software QGIS, que tem como camada de entr
 ![UCDiagram)](https://user-images.githubusercontent.com/36965321/69982572-ac332a00-152c-11ea-8891-109594d334fe.png)
 
 #### Diagrama UML de Classe
-
+![0001](https://user-images.githubusercontent.com/36965321/69983195-02ed3380-152e-11ea-848b-512244d7fde1.jpg)
 
 ### Projeto gráfico da interface
 ![Interface1](https://user-images.githubusercontent.com/36965321/69979959-2eb8eb00-1527-11ea-9c21-3233eaafce5b.png)
