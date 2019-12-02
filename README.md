@@ -18,6 +18,13 @@ Plugin QGIS para identificação da completude de malhas viárias por meio da co
 
 ## Produto Final
 A solução proposta foi um plugin no software QGIS, que tem como camada de entrada dados vetorias lineares referente a malha viária escolhidas pelo usuário. Assim, é feita uma comparação entre a camada de entrada e a base do Open Street Map, gerando uma grade regular que possibilita a categorização da diferença métrica entre as duas camadas vetoriais.
+### Modelagem do sistema
+#### Diagrama UML de Caso de Uso
+![UCDiagram)](https://user-images.githubusercontent.com/36965321/69982572-ac332a00-152c-11ea-8891-109594d334fe.png)
+
+#### Diagrama UML de Classe
+
+
 ### Projeto gráfico da interface
 ![Interface1](https://user-images.githubusercontent.com/36965321/69979959-2eb8eb00-1527-11ea-9c21-3233eaafce5b.png)
 ![Interface2](https://user-images.githubusercontent.com/36965321/69979965-34163580-1527-11ea-9a6f-6bd8ed530079.png)
@@ -36,7 +43,7 @@ Plugin Quick OSM
 Os infograficos a seguir apresentam quais são as ações do usuário na utilização do plugin, bem como quais processos o plugin realiza para o desenvolvimento do resultado final desejado, respectivamente.
 
 ![Info_Usuario](https://user-images.githubusercontent.com/36965321/69980284-d20a0000-1527-11ea-8512-251b3ac0bb20.png)
-![Info_Plugin](https://user-images.githubusercontent.com/36965321/69980312-df26ef00-1527-11ea-89a6-c942bd527c97.png)
+![Infografico](https://user-images.githubusercontent.com/36965321/69982704-0502c280-152d-11ea-8d13-fcb5194b623a.PNG)
 
 ### Projeto Cartográfico do dado de saída
 ![proj_cart](https://user-images.githubusercontent.com/36965321/69981767-e0a5e680-152a-11ea-82ee-bc9b2adc9c56.PNG)
